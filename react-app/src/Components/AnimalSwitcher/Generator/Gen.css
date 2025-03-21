@@ -1,0 +1,19 @@
+#dog-root{
+    border: 1px white solid;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(133, 133, 133);
+}
+
+#dog-image{
+    height: max-content;
+    max-height: 500px;
+    max-width: 100%;
+    margin: 0px;
+    border: 1px solid white;
+}
+
+
+button{
+    margin-bottom: 20px;
+}
