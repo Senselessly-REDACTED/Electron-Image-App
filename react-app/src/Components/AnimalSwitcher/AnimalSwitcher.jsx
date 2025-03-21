@@ -1,6 +1,4 @@
 import { React, useState } from "react";
-import Dog from "./DogGen/Dog";
-import Cat from "./CatGen/Cat";
 import Gen from "./Generator/Gen";
 import axios from 'axios'
 
